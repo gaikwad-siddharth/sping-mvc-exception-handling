@@ -1,4 +1,4 @@
-# 🎓 Student Enquiry Form Application
+# Exception Handling
 
 A Spring Boot web application demonstrating student enquiry form handling using Spring MVC, Spring Data JPA, and layered architecture.
 
